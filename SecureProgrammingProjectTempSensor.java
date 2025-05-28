@@ -1,6 +1,6 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Project written by Jason Sybert with help from ChatGPT.
+ * Project written by Jason Sybert, Sal Bonadonna, and Grant Gose
  * 
  */
 
